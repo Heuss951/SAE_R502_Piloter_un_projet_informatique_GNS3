@@ -1,7 +1,7 @@
 # 📘 **SAE R502 – Piloter un Projet Informatique (Marionnet)**
 **Conception, configuration et pilotage d’une architecture réseau sous Marionnet**
 
-#**1. Présentation générale du projet**
+# **1. Présentation générale du projet**
 
 Ce projet s’inscrit dans le cadre de la **SAE R502 – Piloter un Projet Informatique**, au sein du **BUT Réseaux & Télécommunications – Parcours Cybersécurité**.
 L’objectif est de **concevoir, mettre en œuvre et documenter une infrastructure réseau complète**, tout en appliquant une **méthode Agile** pour structurer le travail en équipe.
