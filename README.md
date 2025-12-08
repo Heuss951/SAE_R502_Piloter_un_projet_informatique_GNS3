@@ -28,7 +28,7 @@ Projet réalisé en binôme :
 Encadrement :
 **IUT de Villetaneuse – Université Sorbonne Paris Nord**
 
-#**3. Organisation et gestion de projet (Agile – Scrum)**
+# **3. Organisation et gestion de projet (Agile – Scrum)**
 
 Nous avons appliqué une organisation inspirée de Scrum, adaptée au format SAE :
 
@@ -48,7 +48,7 @@ Nous avons appliqué une organisation inspirée de Scrum, adaptée au format SAE
 | **Sprint 4** | 8–11 décembre    | Automatisation + documentation + soutenance |
 
 
-#**4. Architecture réseau – Conception finale**
+# **4. Architecture réseau – Conception finale**
 
 L’architecture finale repose sur :
 
@@ -82,7 +82,7 @@ L’architecture finale repose sur :
 * Connectivité maîtrisée entre les sous-réseaux
 * Sécurisation des flux via firewall
 
-#**5. Fonctionnalités implantées**
+# **5. Fonctionnalités implantées**
 
 ## **Version 1 – Topologie & VLAN**
 
