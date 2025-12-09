@@ -160,7 +160,7 @@ README.md              → Documentation principale
 # **8. Planning global**
 
 Le planning détaillé (par sprint, par tâche, par membre du binôme) est disponible dans :
-📁 `/rapport/Planning_SAE_R502.pdf`
+📁 `/docs/Planning détaillé du projet – SAE R502 _ Piloter un Projet Informatique.pdf`
 
 Il contient :
 
