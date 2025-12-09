@@ -152,9 +152,8 @@ Nous avons validé la cohérence de l’infrastructure grâce à une série de t
 # **7. Structure du dépôt GitHub**
 
 ```
-/docs                  → Schémas, captures, tests réseau
 /marionnet_project     → Fichiers .mar (V1 → V4)
-/rapport               → Planning, Backlog, documentation finale
+/docs               → Planning, Backlog, diaporama 
 README.md              → Documentation principale
 ```
 
